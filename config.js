@@ -9,9 +9,9 @@ Copyright (c) 2024 Wick Studio
 */
 
 module.exports = {    
-    token: "", // token
-    clientId: "", // bot id
-    prefix: "!", // prefix
+    token: "MTMxMTU5NjY5NzYyMDg0MDUxOA.GhnIBl.dyx0j4mmfOx4XpNnYepqpKourLzPbu5kFjNIh4", // token
+    clientId: "1311596697620840518", // bot id
+    prefix: "!p", // prefix
     language: "ar", // ar for arabic | en for english
     verbose: true,
     musicCardPath: "./musicard.png",
